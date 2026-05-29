@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "0d7a7f13-313c-4872-bac4-1a39f7e2e832"
+name: "analyse-data"
+display_name: "Analyse Data"
+description: "Extracts patterns, trends, and actionable insights from data"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-analyse-data"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
