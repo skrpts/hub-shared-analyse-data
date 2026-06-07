@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "0d7a7f13-313c-4872-bac4-1a39f7e2e832"
+id: "bf7db12e-60ab-4f4d-8690-ebf51f922f39"
 name: "analyse-data"
 display_name: "Analyse Data"
 description: "Extracts patterns, trends, and actionable insights from data"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
