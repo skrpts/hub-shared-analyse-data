@@ -1,9 +1,9 @@
 # --- Identity ---
 id: "bf7db12e-60ab-4f4d-8690-ebf51f922f39"
 name: "analyse-data"
-display_name: "Analyse Data"
+display_name: "Analyze Data"
 description: "Extracts patterns, trends, and actionable insights from data"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T13:31:10.576Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/analyse-data/security"

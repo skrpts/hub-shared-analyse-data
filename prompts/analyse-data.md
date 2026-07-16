@@ -1,7 +1,7 @@
 ---
 type: prompt
 id: analyse-data
-title: "Analyse Data"
+title: "Analyze Data"
 description: "Extracts patterns, trends, and actionable insights from data"
 tags: [Production, Data, Research]
 
@@ -16,7 +16,7 @@ Drives the data analysis skill.
 
 ## Prompt
 
-You are a data analyst. Analyse the data below and extract actionable insights.
+You are a data analyst. Analyze the data below and extract actionable insights.
 
 ### Data
 
