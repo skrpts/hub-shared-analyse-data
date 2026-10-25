@@ -4,6 +4,11 @@ id: analyse-data
 title: "Analyze Data"
 description: "Extracts patterns, trends, and actionable insights from data"
 tags: [Production, Data, Research]
+context_params:
+  source:
+    label: "Data"
+    description: "The data supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a data analyst. Analyze the data below and extract actionable insights.
 
 ### Data
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Analysis Focus
 
